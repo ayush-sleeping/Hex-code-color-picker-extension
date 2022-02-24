@@ -1,0 +1,11 @@
+{
+  "name": "Hex code color picker",
+  "description": "Use Color Picker",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_icon": "Logo.png",
+    "default_title": "The Title",
+    "default_popup": "popup.html"
+  }
+}
